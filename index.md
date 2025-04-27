@@ -4,7 +4,7 @@
 
 ### Analytic Projects
 
-[Home Credit Default Risk Analysis](<[/sample_page](https://github.com/RS2090-PH/home-credit-default-risk-analysis)>)
+[Home Credit Default Risk Analysis](https://github.com/RS2090-PH/home-credit-default-risk-analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!-- ---
@@ -15,10 +15,15 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-<!-- ---
+To be continued...
+
+---
 
 ### Coding Projects
 
+To be continued...
+
+<!--
 -   [Project 1 Title](http://example.com/)
 -   [Project 2 Title](http://example.com/)
 -   [Project 3 Title](http://example.com/)
