@@ -7,6 +7,9 @@
 [Home Credit Default Risk Analysis](https://github.com/RS2090-PH/home-credit-default-risk-analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[Swire Cart Abandonment Analysis](https://github.com/RS2090-PH/cart-abandonment-analysis)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 <!-- ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
